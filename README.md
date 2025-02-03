@@ -1,6 +1,6 @@
 ## Hi there, I'm Rinat! 👋
 
-![Header Animation](https://user-images.githubusercontent.com/xxx/demo.gif)
+<!--![Header Animation](https://user-images.githubusercontent.com/xxx/demo.gif)
 
 ### 🚀 About Me
 I'm a passionate developer who loves building cool things with code. Always learning and experimenting with new technologies!
@@ -49,4 +49,4 @@ I'm a passionate developer who loves building cool things with code. Always lear
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rinat)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rinatdev)
-[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://rinat.dev)
+[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://rinat.dev)-->
