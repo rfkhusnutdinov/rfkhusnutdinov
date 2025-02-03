@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет, меня зовут Ринат и я просто обожаю код... 👋
 
 <!--
 **rfkhusnutdinov/rfkhusnutdinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
